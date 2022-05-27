@@ -1,0 +1,97 @@
+id: I55FA3753
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T17:12:30.768346'
+last_modified: '2022-05-27T17:12:30.768361'
+parser: null
+source_metadata:
+  title: 'MSV 1,03: Pravāraṇāvastu'
+  language: sa
+  base:
+    f4CF6:
+      title: Piṇḍoddāna 1
+      base_file: f4CF6.txt
+      order: 1
+    fDA99:
+      title: Uddāna 2. Background for the establishemnet of the Pravāraṇākarma
+      base_file: fDA99.txt
+      order: 2
+    f1592:
+      title: Course of the Pravāraṇā
+      base_file: f1592.txt
+      order: 3
+    f97AF:
+      title: The two premisses for Pravāraṇā
+      base_file: f97AF.txt
+      order: 4
+    fEE6E:
+      title: Pravāraṇā of a sick monk
+      base_file: fEE6E.txt
+      order: 5
+    f4701:
+      title: Three kinds of Pravāraṇā according to the number of the participants
+      base_file: f4701.txt
+      order: 6
+    fBD7E:
+      title: Antaroddāna 3. The right moment for Pravāraṇāsthāpanā
+      base_file: fBD7E.txt
+      order: 7
+    fB7C6:
+      title: Various forms of the ceremony in accordance with the numbers of repetition
+        in the recitation of the Pravāraṇā fromula
+      base_file: fB7C6.txt
+      order: 8
+    f2519:
+      title: Antaroddāna 4
+      base_file: f2519.txt
+      order: 9
+    f69C9:
+      title: Canceling the Pravāraṇā because of absence
+      base_file: f69C9.txt
+      order: 10
+    f2C49:
+      title: Pravāraṇā only in the complete and pure congreagtion
+      base_file: f2C49.txt
+      order: 11
+    fD352:
+      title: Uddāna 5
+      base_file: fD352.txt
+      order: 12
+    f4505:
+      title: Conditions for the just accusation (codanā) of a Bhikṣu and making the
+        reality of the case clear
+      base_file: f4505.txt
+      order: 13
+    fD4A4:
+      title: Uddāna 6
+      base_file: fD4A4.txt
+      order: 14
+    f415F:
+      title: Not performing the Pravāraṇā befor all the recident monks are assembled
+      base_file: f415F.txt
+      order: 15
+    f5F31:
+      title: Uddāna 7
+      base_file: f5F31.txt
+      order: 16
+    fC646:
+      title: The cancelling of the Pravāraṇā because of disagreement
+      base_file: fC646.txt
+      order: 17
+    f7552:
+      title: The cancelling of the Pravāraṇā because of, and against, a sick monk
+      base_file: f7552.txt
+      order: 18
+    f04FE:
+      title: Four possible states of the matters when disagreement
+      base_file: f04FE.txt
+      order: 19
+  chapter_to_tile: {}
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
